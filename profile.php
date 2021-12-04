@@ -92,7 +92,7 @@
     </div>
     <div class="kiri">
       <h3>GLADIS TRI OKTAVIANI</h3>
-      <h4 >UMUR 16 | PELAJAR | BOGOR <br><br> Histori Sekolah <br><br> SD : SDN MUARASARI 1 <br> SMP : SMPN 17 KOTA BOGOR <br> SMK : SMKN 4 KOTA BOGOR</h4>
+      <h4 >UMUR 18 | PELAJAR | BOGOR <br><br> Histori Sekolah <br><br> SD : SDN BANTAR KEMANG 1 <br> SMP : SMP YP PEMBANGUNAN KOTA BOGOR <br> SMK : SMKN 4 KOTA BOGOR</h4>
     </div>
   </div>
 
